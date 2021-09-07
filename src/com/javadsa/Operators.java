@@ -1,5 +1,7 @@
 package com.javadsa;
 
+import java.util.ArrayList;
+
 public class Operators {
     public static void main(String[] args) {
         //if we put the char and add with the + operator then it will add the assaai value of that character
@@ -16,5 +18,9 @@ public class Operators {
         System.out.println();
         //converting it into char value
         System.out.println((char)('a' + 3));
+        System.out.println();
+        System.out.println("Deepak" + new ArrayList<>());
+        System.out.println();
+
     }
 }
