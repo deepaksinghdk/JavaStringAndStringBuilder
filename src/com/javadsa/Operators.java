@@ -27,7 +27,8 @@ public class Operators {
         * only we can add primitive data types
         * Or string should be present for adding two non primitive values doesnt matter if the string value is empty.
         *
-        *
+        * and operator giving more funtions then it is operator overloading like to concatinate
+           string we use add operator that is operator overloading
         *
         */
 
