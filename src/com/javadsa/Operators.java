@@ -22,5 +22,14 @@ public class Operators {
         System.out.println("Deepak" + new ArrayList<>());
         System.out.println();
 
+
+        /*
+        * only we can add primitive data types
+        * Or string should be present for adding two non primitive values doesnt matter if the string value is empty.
+        *
+        *
+        *
+        */
+
     }
 }
